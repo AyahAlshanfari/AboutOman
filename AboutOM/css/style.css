@@ -1,0 +1,90 @@
+body{background-color: #f6f6f6;
+
+}
+
+.img{
+  height: 500px;
+  width: 750px;
+}
+
+#nav-logo{
+ width: 180px;
+}
+
+.navbar{
+  background-color: #838383;
+  padding-bottom: 0;
+  padding-top: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.navbar-brand{
+  padding-left: 50px;
+  font-family: 'Righteous', cursive;
+}
+.nav-link{
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 20px;
+
+}
+
+.up-space{
+
+  margin-bottom: 100px;
+}
+
+.space{
+   margin: 20px;
+}
+
+.title{
+  text-align: center;
+  font-family: 'Volkhov', serif;
+  padding: 10px;
+  color: #41444b;
+
+}
+h5, p {
+  background-color: #ad9d9d;
+  margin-bottom: 0;
+  font-family: 'Volkhov', serif;
+}
+
+h5{
+  padding-top: 10px;
+}
+
+p{
+  padding-bottom: 10px;
+}
+.down-space{
+  border: 50px
+}
+
+.map-title{
+  background-color: #e5e5e5;
+  text-align: center;
+  font-family: 'Volkhov', serif;
+  margin-top: 20px;
+  padding: 5px;
+  color: #41444b;
+}
+
+
+ .info p {
+   font-size: 1.2rem;
+     margin: 400px 100px 20px 100px;
+  padding: 5px;
+    background-color: #f6f6f6;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.omanbot{
+  margin: 100px;
+  border: 10px solid white;
+  position: relative;
+  left: 50px;
+  width: 1000px;
+  height: 400px;
+  bottom: 60px;
+}
